@@ -41,7 +41,7 @@ int main()
     }
 
     for (index = 0; index < list.size(); index++)
-        cout << list[index].str << " " << " " << list[index].value << "\n";
+        cout << list[index].str << " " << list[index].value << "\n";
 
     return 0;
 }
